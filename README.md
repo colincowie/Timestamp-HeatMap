@@ -24,5 +24,3 @@ heatmap = visualizer.run_timezone_heatmap()
 
 visualizer.write_report(heatmap, "example_report.html")
 ```
-
-<img src = "https://github.com/colincowie/Timestamp-HeatMap/raw/master/heatmap_viz/example_data/images/example.PNG">
