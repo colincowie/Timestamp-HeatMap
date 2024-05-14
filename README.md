@@ -27,9 +27,9 @@ This will install the library along with its dependencies.
 
 You can import the necessary functions from the library like this:
 
-\```python
+```python
 from heatmap_pattern_of_life import heatmap_from_excel, heatmap_from_plaintext, heatmap_from_csv
-\```
+```
 
 ### Functions
 
