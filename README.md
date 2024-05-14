@@ -31,6 +31,8 @@ You can import the necessary functions from the library like this:
 from heatmap_pattern_of_life import heatmap_from_excel, heatmap_from_plaintext, heatmap_from_csv
 ```
 
+[demo.py](https://github.com/colincowie/Timestamp-HeatMap/blob/main/demo/demo.py) showcases how to use this library
+
 ### Functions
 
 #### `heatmap_from_excel(file_path, sheet_name, timestamp_column, title, user_utc_offset=0)`

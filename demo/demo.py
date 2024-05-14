@@ -22,5 +22,3 @@ figure2.show()
 # Example graphing csv data
 heatmap_fig = heatmap_from_csv('example_data/isoon.csv', 'Timestamps', 'CSV Data', timestamp_format="%m/%d/%y %H:%M", user_utc_offset=+3)
 show_with_custom_theme(heatmap_fig)
-
-
