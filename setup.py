@@ -12,7 +12,8 @@ setup(
     packages=find_packages(),  # Automatically find all packages and subpackages
     install_requires=[
         'pandas',
-        'plotly'
+        'plotly',
+        'openpyxl'
     ],  # List of dependencies
     classifiers=[
         'Development Status :: 3 - Alpha',

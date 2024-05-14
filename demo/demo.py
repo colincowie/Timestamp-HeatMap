@@ -5,8 +5,8 @@ from heatmap_pattern_of_life import heatmap_from_excel, heatmap_from_plaintext, 
 def show_with_custom_theme(fig):
     fig.update_layout(
         template='plotly_dark',
-        font=dict(family='Sophos Sans', size=18),
-        paper_bgcolor="#005BC8"
+        font=dict(family='Arial', size=18),
+        paper_bgcolor="#2c2c2c"
     )
     fig.show() 
 
