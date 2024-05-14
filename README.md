@@ -11,7 +11,7 @@ To install the library from source, follow these steps:
 1. Clone the repository or download the source code:
    ```bash
    git clone https://github.com/colincowie/Timestamp-HeatMap.git
-   cd HeatMapPatternOfLife
+   cd Timestamp-HeatMap
    ```
 
 2. Install the package:
